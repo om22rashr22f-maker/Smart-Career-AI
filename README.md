@@ -2,7 +2,7 @@
 # Smart-Career-AI
 Building AI course project
 
-##  Summary
+## Summary
 
 Smart Career AI is an AI-powered career guidance platform that helps university students and fresh graduates discover suitable career paths, improve their CVs, identify missing skills, and receive personalized recommendations for courses and jobs. The project aims to reduce the gap between education and employment using Artificial Intelligence.
 
