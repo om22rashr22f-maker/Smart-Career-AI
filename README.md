@@ -1,11 +1,6 @@
 
 # Smart-Career-AI
 Building AI course project
-# 🤖 Smart Career AI
-
-**Building AI course project**
-
----
 
 ## 📌 Summary
 
@@ -22,7 +17,7 @@ Some common problems include:
 - Poor CV quality.
 - Lack of career guidance.
 - Missing technical or language skills.
-- Difficulty finding suitable job opportunities.
+- Difficulty finding suitable job opportunity 
 - Limited knowledge of the current job market.
 
 As a university student, I have seen many talented people miss good opportunities simply because they lacked guidance. This inspired me to design an AI assistant that supports career development.
